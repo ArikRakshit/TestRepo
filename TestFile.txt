@@ -1,2 +1,6 @@
 Change 1            #change in branch
+<<<<<<< HEAD
 Change 2            #change in master
+=======
+Change 2
+>>>>>>> 2dc8224 (Commit in branch idea)
